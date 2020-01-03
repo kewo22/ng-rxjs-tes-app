@@ -15,6 +15,9 @@ import {
   templateUrl: "./app.component.html",
   styleUrls: ["./app.component.css"]
 })
+
+//https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
+
 export class AppComponent implements OnInit {
   x: any;
 
