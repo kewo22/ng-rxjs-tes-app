@@ -17,7 +17,7 @@ import {
 })
 
 //https://medium.com/@luukgruijs/understanding-rxjs-map-mergemap-switchmap-and-concatmap-833fc1fb09ff
-
+//https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/
 export class AppComponent implements OnInit {
   x: any;
 
