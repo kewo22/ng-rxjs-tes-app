@@ -108,4 +108,8 @@ export class AppComponent implements OnInit {
   Unsub() {
     this.x.unsubscribe();
   }
+
+  interval(){
+    // this.simulateHttp(1000)
+  }
 }
